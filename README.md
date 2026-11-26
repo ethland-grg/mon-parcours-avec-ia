@@ -20,6 +20,8 @@ Tu débutes avec l'intelligence artificielle ? Tu utilises ChatGPT ou Claude, ma
 
 
 Envoie-moi un message.
+
+
 Je pourrai partager mon expérience et t'expliquer comment dialoguer avec ces outils pour mieux avancer.
 Personne ne doit abandonner simplement parce qu'il ne sait plus par où commencer.
 ## Une précision importante
