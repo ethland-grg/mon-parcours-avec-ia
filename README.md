@@ -1,11 +1,19 @@
 # Mon parcours avec l'intelligence artificielle
-### On ne lâche pas, on commence et on achève jusqu'à la fin. 
+
+### On ne lâche pas, on commence et on achève jusqu'à la fin.
+
 Je ne suis pas parti développeur. J'ai appris en avançant, en faisant des erreurs, en cherchant des solutions et en apprenant à travailler avec l'intelligence artificielle.
+
 ## Mon expérience
+
 Au fil de mon parcours, j'ai appris à utiliser ChatGPT et Claude pour comprendre, réfléchir, résoudre des difficultés et avancer étape par étape.
+
 Cette expérience m'a appris une chose importante : l'IA peut être une aide précieuse, mais il faut savoir lui expliquer ce que l'on cherche, poser les bonnes questions et vérifier les réponses.
+
 ## Ce que je souhaite partager
+
 Je souhaite partager ici mon expérience et les méthodes qui m'ont aidé :
+
 - Apprendre à dialoguer avec ChatGPT et Claude.
 - Savoir formuler une demande claire.
 - Avancer étape par étape lorsqu'on rencontre un problème.
@@ -13,39 +21,38 @@ Je souhaite partager ici mon expérience et les méthodes qui m'ont aidé :
 - Vérifier les réponses et garder le contrôle de ses décisions.
 - Garder confiance et persévérer lorsqu'on est bloqué.
 
-
 Je ne partage pas ici le code ni les détails de mes projets. Je souhaite avant tout transmettre mon expérience d'apprentissage et aider ceux qui en ont besoin.
+
 ## Besoin d'un coup de main ?
+
 Tu débutes avec l'intelligence artificielle ? Tu utilises ChatGPT ou Claude, mais tu ne sais plus comment formuler tes demandes ou comment avancer lorsque tu rencontres un blocage ?
-
-
-Envoie-moi un message.
-
 
 Je pourrai partager mon expérience et t'expliquer comment dialoguer avec ces outils pour mieux avancer.
 
 ## Vous n'êtes pas seuls pour apprendre
-N'ayez pas peur de vous lancer dans l'intelligence artificielle. 
-Ne soyez pas découragés si vous ne savez pas comment poser une question ou si vous n'obtenez pas immédiatement le résultat attendu.
+
+N'ayez pas peur de vous lancer dans l'intelligence artificielle. Ne soyez pas découragés si vous ne savez pas comment poser une question ou si vous n'obtenez pas immédiatement le résultat attendu.
+
 Je suis là pour partager mon expérience, vous expliquer comment dialoguer avec ChatGPT et Claude, comment formuler vos demandes et surtout comment avancer jusqu'au bout.
+
 Vous verrez que ChatGPT et Claude peuvent être de véritables compagnons d'apprentissage. Ils ne sont pas aussi intimidants qu'on pourrait le penser ! On peut leur parler simplement, leur demander des explications et progresser avec eux.
+
 Bien sûr, ils ne sont pas infaillibles. Il faut apprendre à vérifier leurs réponses et garder son propre jugement.
+
 Mon objectif est simple : vous aider à prendre confiance, à comprendre et à réussir vos démarches.
-On ne lâche pas, on commence et on achève jusqu'à la fin !
 
+**On ne lâche pas, on commence et on achève jusqu'à la fin !**
 
-Une question ? Parlons-en !
-
+### Une question ? Parlons-en !
 
 Vous pouvez poser votre question directement dans notre espace public :
-Poser une question
 
-– Discussions Q&A
+[Poser une question – Discussions Q&A](https://github.com/ethland-grg/mon-parcours-avec-ia/discussions/1)
 
 Votre question pourra aussi aider quelqu'un d'autre qui rencontre la même difficulté.
 
 Personne ne doit abandonner simplement parce qu'il ne sait plus par où commencer.
 
 ## Une précision importante
-ChatGPT et Claude peuvent se tromper. Leurs réponses doivent être vérifiées et adaptées à chaque situation. L'humain reste responsable de ses choix et de ce qu'il décide d'appliquer.
 
+ChatGPT et Claude peuvent se tromper. Leurs réponses doivent être vérifiées et adaptées à chaque situation. L'humain reste responsable de ses choix et de ce qu'il décide d'appliquer.
