@@ -23,6 +23,8 @@ Envoie-moi un message.
 
 
 Je pourrai partager mon expérience et t'expliquer comment dialoguer avec ces outils pour mieux avancer.
+
+
 Personne ne doit abandonner simplement parce qu'il ne sait plus par où commencer.
 ## Une précision importante
 ChatGPT et Claude peuvent se tromper. Leurs réponses doivent être vérifiées et adaptées à chaque situation. L'humain reste responsable de ses choix et de ce qu'il décide d'appliquer.
