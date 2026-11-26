@@ -1,10 +1,10 @@
 # Mon parcours avec l'intelligence artificielle
 **On ne lâche pas, on commence et on achève jusqu'à la fin.**
 Je ne suis pas parti développeur. J'ai appris en avançant, en faisant des erreurs, en cherchant des solutions et en apprenant à travailler avec l'intelligence artificielle.
-##Mon expérience
+## Mon expérience
 Au fil de mon parcours, j'ai appris à utiliser ChatGPT et Claude pour comprendre, réfléchir, résoudre des difficultés et avancer étape par étape.
 Cette expérience m'a appris une chose importante : l'IA peut être une aide précieuse, mais il faut savoir lui expliquer ce que l'on cherche, poser les bonnes questions et vérifier les réponses.
-##Ce que je souhaite partager
+## Ce que je souhaite partager
 Je souhaite partager ici mon expérience et les méthodes qui m'ont aidé :
 - Apprendre à dialoguer avec ChatGPT et Claude.
 - Savoir formuler une demande claire.
