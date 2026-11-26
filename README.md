@@ -38,7 +38,10 @@ Une question ? Parlons-en !
 
 
 Vous pouvez poser votre question directement dans notre espace public :
-Poser une question – Discussions Q&A
+Poser une question
+
+– Discussions Q&A
+
 Votre question pourra aussi aider quelqu'un d'autre qui rencontre la même difficulté.
 
 Personne ne doit abandonner simplement parce qu'il ne sait plus par où commencer.
