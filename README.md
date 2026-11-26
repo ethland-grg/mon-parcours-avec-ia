@@ -1,5 +1,5 @@
 # Mon parcours avec l'intelligence artificielle
-**On ne lâche pas, on commence et on achève jusqu'à la fin.** 
+** On ne lâche pas, on commence et on achève jusqu'à la fin.** 
 Je ne suis pas parti développeur. J'ai appris en avançant, en faisant des erreurs, en cherchant des solutions et en apprenant à travailler avec l'intelligence artificielle.
 ## Mon expérience
 Au fil de mon parcours, j'ai appris à utiliser ChatGPT et Claude pour comprendre, réfléchir, résoudre des difficultés et avancer étape par étape.
