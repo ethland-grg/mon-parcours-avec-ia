@@ -24,7 +24,25 @@ Envoie-moi un message.
 
 Je pourrai partager mon expérience et t'expliquer comment dialoguer avec ces outils pour mieux avancer.
 
+## Vous n'êtes pas seuls pour apprendre
+N'ayez pas peur de vous lancer dans l'intelligence artificielle. 
+Ne soyez pas découragés si vous ne savez pas comment poser une question ou si vous n'obtenez pas immédiatement le résultat attendu.
+Je suis là pour partager mon expérience, vous expliquer comment dialoguer avec ChatGPT et Claude, comment formuler vos demandes et surtout comment avancer jusqu'au bout.
+Vous verrez que ChatGPT et Claude peuvent être de véritables compagnons d'apprentissage. Ils ne sont pas aussi intimidants qu'on pourrait le penser ! On peut leur parler simplement, leur demander des explications et progresser avec eux.
+Bien sûr, ils ne sont pas infaillibles. Il faut apprendre à vérifier leurs réponses et garder son propre jugement.
+Mon objectif est simple : vous aider à prendre confiance, à comprendre et à réussir vos démarches.
+On ne lâche pas, on commence et on achève jusqu'à la fin !
+
+
+Une question ? Parlons-en !
+
+
+Vous pouvez poser votre question directement dans notre espace public :
+Poser une question – Discussions Q&A
+Votre question pourra aussi aider quelqu'un d'autre qui rencontre la même difficulté.
 
 Personne ne doit abandonner simplement parce qu'il ne sait plus par où commencer.
+
 ## Une précision importante
 ChatGPT et Claude peuvent se tromper. Leurs réponses doivent être vérifiées et adaptées à chaque situation. L'humain reste responsable de ses choix et de ce qu'il décide d'appliquer.
+
