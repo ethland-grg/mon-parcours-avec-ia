@@ -12,7 +12,7 @@ Je souhaite partager ici mon expérience et les méthodes qui m'ont aidé :
 - Comprendre les erreurs au lieu de tout recommencer.
 - Vérifier les réponses et garder le contrôle de ses décisions.
 - Garder confiance et persévérer lorsqu'on est bloqué.
-**Je ne partage pas ici le code ni les détails de mes projets. Je souhaite avant tout transmettre mon expérience d'apprentissage et aider ceux qui en ont besoin.**
+Je ne partage pas ici le code ni les détails de mes projets. Je souhaite avant tout transmettre mon expérience d'apprentissage et aider ceux qui en ont besoin.
 ## Besoin d'un coup de main ?
 Tu débutes avec l'intelligence artificielle ? Tu utilises ChatGPT ou Claude, mais tu ne sais plus comment formuler tes demandes ou comment avancer lorsque tu rencontres un blocage ?
 ### Envoie-moi un message.
