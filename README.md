@@ -17,7 +17,7 @@ Je souhaite partager ici mon expérience et les méthodes qui m'ont aidé :
 Je ne partage pas ici le code ni les détails de mes projets. Je souhaite avant tout transmettre mon expérience d'apprentissage et aider ceux qui en ont besoin.
 ## Besoin d'un coup de main ?
 Tu débutes avec l'intelligence artificielle ? Tu utilises ChatGPT ou Claude, mais tu ne sais plus comment formuler tes demandes ou comment avancer lorsque tu rencontres un blocage ?
-### Envoie-moi un message.
+Envoie-moi un message.
 Je pourrai partager mon expérience et t'expliquer comment dialoguer avec ces outils pour mieux avancer.
 Personne ne doit abandonner simplement parce qu'il ne sait plus par où commencer.
 ## Une précision importante
